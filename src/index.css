@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-onprimary: #fff;
+  --main-secondary: #70c05b;
+  --grayscale---hard: #8f8f8f;
+  --main-onsurface: #414141;
+}
+
+body {
+  background: var(--main-onprimary);
+}
